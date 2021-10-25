@@ -1,0 +1,5 @@
+Credentials cache: API:5BE0A905-59DD-491D-BAE6-1AFE08B4F30B
+        Principal: leolivei@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  7 20:25:25 2021  Sep  8 06:25:17 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
